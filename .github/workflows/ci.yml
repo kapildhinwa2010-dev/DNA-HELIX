@@ -46,4 +46,4 @@ jobs:
       - name: Compile and smoke-test package
         run: |
           python -m compileall -q dna_helix.py tests
-          python -c "from dna_helix import HybridStore; s = HybridStore(); print(type(s).__name__)"
+          python -c "from dna_helix import HybridStore; print(type(HybridStore()).__name__)"
