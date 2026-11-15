@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/kapildhinwa2010-dev/DNA-HELIX/actions/workflows/ci.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/DNA-HELIX/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/kapildhinwa2010-dev/DNA-HELIX/actions/workflows/codeql.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/DNA-HELIX/actions/workflows/codeql.yml)
+
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
